@@ -21,3 +21,5 @@ Try to make a Doodle Jump clone game using Pygame
 - **Land on platforms**: Jump automatically
 - **Trampolines**: Super jump boost
 - **Avoid monsters**: Insta Kill
+
+In progress will add more features later.
